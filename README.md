@@ -3,8 +3,6 @@
 <!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashaswini;Data+Engineer+%7C+Pipeline+Architect;Streaming+%7C+CDC+%7C+Lakehouse+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yashaswinis15&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
-
 </div>
 
 ---
