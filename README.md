@@ -66,7 +66,6 @@ Building scalable data pipelines and cloud-based data solutions using Python, SQ
 
 # 🚀 Featured Data Engineering Projects
 
-
 ## ⚡ FinStream — Real-Time Fraud Detection & Analytics Pipeline
 
 Built an end-to-end streaming data pipeline for processing financial transactions and supporting fraud analytics.
@@ -86,7 +85,7 @@ Built an end-to-end streaming data pipeline for processing financial transaction
     <img src="https://img.shields.io/badge/View%20FinStream-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```
+
 ---
 
 ## 🚕 NYC TLC — AWS Data Engineering Pipeline
