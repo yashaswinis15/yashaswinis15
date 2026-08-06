@@ -105,3 +105,14 @@ PostgreSQL
     │
     ▼
 Grafana
+
+**## 🚕 NYC TLC — AWS Data Engineering Pipeline**
+
+Built an automated AWS data pipeline for **NYC TLC trip data**, handling both historical and newly arriving datasets.
+
+- Developed **Python-based AWS Glue ETL jobs** to process and transform trip data stored in S3.
+- Used **Glue Crawlers and Data Catalog** for schema management and **Athena** for querying processed data.
+- Orchestrated the pipeline with **AWS Step Functions** and automated new data processing using **EventBridge**.
+- Monitored pipeline and job execution through **Amazon CloudWatch**.
+
+**Tech:** `Python` • `S3` • `AWS Glue` • `Glue Crawler` • `Data Catalog` • `Athena` • `Step Functions` • `EventBridge` • `CloudWatch`
