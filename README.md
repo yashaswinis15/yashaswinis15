@@ -90,46 +90,23 @@ Built an end-to-end streaming data pipeline for processing financial transaction
 
 ## 🚕 NYC TLC — AWS Data Engineering Pipeline
 
-Built an automated AWS data pipeline for processing **NYC TLC trip data**, supporting both historical and newly arriving datasets.
+Built an automated AWS data pipeline for **NYC TLC trip data**, supporting historical ingestion and incremental processing of newly arriving datasets.
 
 - Developed **Python-based AWS Glue ETL jobs** to process and transform data stored in Amazon S3.
 - Used **Glue Crawlers and Glue Data Catalog** for schema discovery and metadata management.
 - Queried processed datasets using **Amazon Athena**.
-- Orchestrated pipeline workflows using **AWS Step Functions** and automated execution using **Amazon EventBridge**.
+- Orchestrated pipeline workflows with **AWS Step Functions** and automated new data processing using **Amazon EventBridge**.
 - Monitored pipeline and Glue job execution using **Amazon CloudWatch**.
 
 **Tech Stack**
 
 `Python` • `Amazon S3` • `AWS Glue` • `Glue Crawler` • `Glue Data Catalog` • `Athena` • `Step Functions` • `EventBridge` • `CloudWatch`
 
-<p align="center">
-  <a href="YOUR-NYC-TLC-REPOSITORY-LINK">
-    <img src="https://img.shields.io/badge/View%20NYC%20TLC%20Pipeline-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🎯 Data Engineering Focus
 
 `ETL/ELT` • `Data Pipelines` • `Data Integration` • `Data Warehousing` • `CDC` • `Streaming` • `Data Modeling` • `Data Quality` • `Workflow Orchestration` • `Distributed Processing`
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashaswinis15&show_icons=true&hide_border=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswinis15&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashaswinis15&hide_border=true"/>
-</p>
 
 ---
 
