@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 
 <h3 align="center">
-Data Engineer | Cloud Data Platforms | ETL/ELT | Distributed Data Processing
+Cloud Data Platforms | ETL/ELT | Distributed Data Processing
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Building scalable data pipelines and cloud-based data solutions using Python, SQ
 
 ## 👩‍💻 About Me
 
-- 🔹 Data Engineer focused on building reliable **ETL/ELT and data processing pipelines**
+- 🔹 Focused on building reliable **ETL/ELT and data processing pipelines**
 - ☁️ Working with cloud data platforms across **AWS and Azure**
 - ⚡ Experienced with **Python, SQL, Spark, PySpark, Airflow, Kafka, and Databricks**
 - 🏗️ Interested in **Data Engineering, Data Warehousing, Distributed Processing, and Cloud Architecture**
